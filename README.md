@@ -1,2 +1,2 @@
 # Ecoconception
-Here, you'll find a dummy website created in order to apply ecodesigning's concepts.
+Vous trouverez dans ce repo un site web créé pour pouvoir y appliquer les principes d'écoconception.
