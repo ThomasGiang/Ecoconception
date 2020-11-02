@@ -482,6 +482,10 @@ $(function () {
 
 	var Fake = [
 	  'Do you need help ?',
+	  'Our libraries open at 8:00 AM and close at 8:00PM',
+	  'We are located in Paris',
+	  'Oh you already know that ! So how can I help you ?',
+	  'Do you need help ?',
 	  'You know you can talk to me right ?',
 	  'If you\'re writing to me, it means that you need some help...',
 	  'Or maybe you\'ve given up to make this homework :(',
@@ -494,6 +498,7 @@ $(function () {
 	  'Sorry for disturbing you :|',
 	  'It\'s time to leave !',
 	  'Good luck !',
+	  'See you around in our libraries !',
 	  ':)'
 	]
 
